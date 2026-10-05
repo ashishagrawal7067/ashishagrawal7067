@@ -6,7 +6,7 @@
 <!-- Dynamic Typing SVG Subtitle -->
 <div align="center">
   <a href="https://github.com/ashishagrawal7067">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=📊+Data+Analytics+%26+Business+Intelligence;🐍+Python+%26+SQL+Data+Automation;📈+Interactive+Dashboards+%26+Executive+Reporting;🤖+Predictive+Modeling+%26+Statistical+Analysis;💡+Turning+Complex+Data+into+Actionable+Insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Data+Analytics+%26+Business+Intelligence;Python+%26+SQL+Data+Automation;Interactive+Dashboards+%26+Reporting;Predictive+Modeling+%26+Statistical+Analysis;Turning+Complex+Data+into+Actionable+Insights" alt="Typing SVG" />
   </a>
 </div>
 
